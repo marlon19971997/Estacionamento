@@ -43,7 +43,13 @@ public class Documentoentrada {
     c1.placa = "AMV2525";
     c1.potencia = 1.0; 
     c1.kilometragem = 10.000;
-          
+       
+    
+    moto m1 = new moto();
+    
+     m1.chassi = 1;
+     m1.chassi = 2;
+     
   } 
     
 

@@ -20,7 +20,7 @@ public class NewMain {
     
     operador op = new operador();
     
-    op.cpf = 855-825-899.15;
+    op.cpf = 855;
     op.idade = 20;
     op.nome = "gabriel";
     
